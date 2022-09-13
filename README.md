@@ -1,6 +1,6 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/20962500/189906672-eee399cb-ffb3-47d5-8922-ad0a2c22d5be.png)
 
-Software Developer with 10+ years of experience developing web applications, applying the different stages from requirements analysis, design, development, testing and implementation. Experience using React, JavaScript, HTML/CSS3, Angular, Typescript, Node JS, Java, C#. Recognition in Ericsson for the proper implementation of the EIRG project form Millicom, making use of best development practices, agile scrum methodology and DevOps automation.
+Software Developer with 10+ years of experience developing web applications, applying the different stages from requirements analysis, design, development, testing and implementation. Experience using React, JavaScript, HTML/CSS3, Angular, Typescript, Node JS, Java, C#. Recognition in Ericsson for the proper implementation of the EIRG project from Millicom, making use of best development practices, agile scrum methodology and DevOps automation.
 
 ## 🚀My projects 
 

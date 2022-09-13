@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 📈My statistics
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjmartinez&show_icons=true&theme=city_lights)](https://github.com/juanjmartinez/github-readme-stats)|![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjmartinez&show_icons=true&theme=city_lights)|
+|---|---|
+
+
 <!--
 **juanjmartinez/juanjmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
